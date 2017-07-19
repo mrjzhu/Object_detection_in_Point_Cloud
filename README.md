@@ -18,3 +18,5 @@ In this project, we design and prototype our lane marking detection algorithm to
 3. Fit lines and exclude the abnormal points with the RANSAC algorithm
 4. mark the result.
 
+## Notes
+See the detailed process in file lane mark.ipynb
